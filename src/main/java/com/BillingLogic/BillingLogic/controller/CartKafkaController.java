@@ -39,7 +39,7 @@ public class CartKafkaController {
             }
         });
 
-        return "Published Successfully";
+        return "Published Cart Successfully";
     }
 
 
